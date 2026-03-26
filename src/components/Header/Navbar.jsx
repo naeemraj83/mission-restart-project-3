@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
+import logo from '../../../public/photos/logo.png'
 
 const Navbar = () => {
     return (
@@ -21,7 +22,7 @@ const Navbar = () => {
         <li> <Link to={'/ins'}>Instalation</Link> </li>
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">daisyUI</a>
+    <a className="btn btn-ghost  text-xl"><img className='w-10 h-10' src={logo} alt=" " /></a><p className='font-bold'>HERO IO</p>  
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">

@@ -1,17 +1,9 @@
 import React from 'react';
 
+
 const Card = () => {
 
-const appsData = [
-    { id: 1, title: "Forest: Focus For Productivity", downloads: "9M", rating: 5, image: "https://via.placeholder.com/300x300" },
-    { id: 2, title: "SmPlan: ToDo List With Reminder", downloads: "9M", rating: 5, image: "https://via.placeholder.com/300x300" },
-    { id: 3, title: "FLIP - Focus Timer For Study", downloads: "9M", rating: 5, image: "https://via.placeholder.com/300x300" },
-    { id: 4, title: "Pomocat - Cute Pomodoro Timer", downloads: "9M", rating: 5, image: "https://via.placeholder.com/300x300" },
-    { id: 5, title: "Time Planner: Schedule & Tasks", downloads: "9M", rating: 5, image: "https://via.placeholder.com/300x300" },
-    { id: 6, title: "Morning Habits - Daily Routine", downloads: "9M", rating: 5, image: "https://via.placeholder.com/300x300" },
-    { id: 7, title: "Focus Plant: Pomodoro Forest", downloads: "9M", rating: 5, image: "https://via.placeholder.com/300x300" },
-    { id: 8, title: "Alarmy - Alarm Clock & Sleep", downloads: "9M", rating: 5, image: "https://via.placeholder.com/300x300" },
-  ];
+
 
     return (
         <section className="bg-[#F8FAFC] py-16 px-6">

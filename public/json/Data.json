@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Forest: Focus For Productivity",
+    "companyName": "productive.io",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&q=80&w=500",
+    "description": "Stay focused and be more productive with Forest. Plant a tree when you want to focus, and it will grow while you work.",
+    "size": 145,
+    "reviews": 54200,
+    "ratingAvg": 4.8,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "SmPlan: ToDo List With Reminder",
+    "companyName": "smartplan.dev",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=500",
+    "description": "Organize your life and never miss a deadline again with SmPlan's intuitive reminders and planning tools.",
+    "size": 291,
+    "reviews": 32100,
+    "ratingAvg": 4.9,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "FLIP - Focus Timer For Study",
+    "companyName": "flipfocus.co",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=500",
+    "description": "FLIP is a pomodoro-style study timer that measures your level of focus. Rank up and compete with students worldwide.",
+    "size": 88,
+    "reviews": 45000,
+    "ratingAvg": 4.7,
+    "downloads": 5500000,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 3400 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Alarmy - Loud Alarm Clock",
+    "companyName": "alarmy.corp",
+    "image": "https://images.unsplash.com/photo-1563991655280-cb95c90ca2fb?auto=format&fit=crop&q=80&w=500",
+    "description": "The world's most annoying alarm clock. Wake up your brain by solving math problems or taking photos.",
+    "size": 210,
+    "reviews": 125000,
+    "ratingAvg": 4.6,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 80000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Zen: Sleep & Meditation",
+    "companyName": "zenlabs.io",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=500",
+    "description": "Find your inner peace. Zen offers guided meditations, breathing exercises, and high-quality white noise.",
+    "size": 112,
+    "reviews": 18000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "FitTrack: Daily Workout",
+    "companyName": "fittrack.fit",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=500",
+    "description": "Your personal trainer in your pocket. No equipment needed. Simple and effective daily workouts.",
+    "size": 310,
+    "reviews": 9500,
+    "ratingAvg": 4.4,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Wallet: Money Tracker",
+    "companyName": "fintechly.app",
+    "image": "https://images.unsplash.com/photo-1512358959174-b704cd9b52e1?auto=format&fit=crop&q=80&w=500",
+    "description": "Track your expenses, set budgets, and save more money. Get detailed financial insights and syncing.",
+    "size": 95,
+    "reviews": 12800,
+    "ratingAvg": 4.7,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "SkyCast: Weather Real-time",
+    "companyName": "meteohub.com",
+    "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&q=80&w=500",
+    "description": "Accurate local weather forecasts, storm radar, and real-time alerts. Never get caught in the rain again.",
+    "size": 42,
+    "reviews": 89000,
+    "ratingAvg": 4.6,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  }
+]
