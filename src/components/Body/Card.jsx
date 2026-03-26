@@ -5,11 +5,11 @@ const Card = () => {
 
  const [cards,allCards]=useState([]);
  useEffect(()=>{
-    fetch("/public/json/Data.json")
+    fetch("/json/Data.json")
     .then(res=>res.json())
     .then(data=>allCards(data))
  },[])
- console.log(cards);
+
 
     return (
         

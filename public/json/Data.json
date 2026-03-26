@@ -10,29 +10,21 @@
     "ratingAvg": 4.8,
     "downloads": 9000000,
     "ratings": [
-      { "name": "1 star", "count": 1200 },
-      { "name": "2 star", "count": 800 },
-      { "name": "3 star", "count": 2200 },
-      { "name": "4 star", "count": 10000 },
-      { "name": "5 star", "count": 40000 }
+      { "name": "1 star", "count": 1200 }, { "name": "2 star", "count": 800 }, { "name": "3 star", "count": 2200 }, { "name": "4 star", "count": 10000 }, { "name": "5 star", "count": 40000 }
     ]
   },
   {
     "id": 2,
-    "title": "SmPlan: ToDo List With Reminder",
+    "title": "SmPlan: ToDo List & Reminder",
     "companyName": "smartplan.dev",
     "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=500",
-    "description": "Organize your life and never miss a deadline again with SmPlan's intuitive reminders and planning tools.",
+    "description": "Organize your life and never miss a deadline again with SmPlan's intuitive reminders.",
     "size": 291,
     "reviews": 32100,
     "ratingAvg": 4.9,
-    "downloads": 8000000,
+    "downloads": 8500000,
     "ratings": [
-      { "name": "1 star", "count": 500 },
-      { "name": "2 star", "count": 600 },
-      { "name": "3 star", "count": 1000 },
-      { "name": "4 star", "count": 5000 },
-      { "name": "5 star", "count": 25000 }
+      { "name": "1 star", "count": 500 }, { "name": "2 star", "count": 600 }, { "name": "3 star", "count": 1000 }, { "name": "4 star", "count": 5000 }, { "name": "5 star", "count": 25000 }
     ]
   },
   {
@@ -40,17 +32,13 @@
     "title": "FLIP - Focus Timer For Study",
     "companyName": "flipfocus.co",
     "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=500",
-    "description": "FLIP is a pomodoro-style study timer that measures your level of focus. Rank up and compete with students worldwide.",
+    "description": "FLIP is a study timer that measures your level of focus and lets you compete with students worldwide.",
     "size": 88,
     "reviews": 45000,
     "ratingAvg": 4.7,
     "downloads": 5500000,
     "ratings": [
-      { "name": "1 star", "count": 2100 },
-      { "name": "2 star", "count": 1500 },
-      { "name": "3 star", "count": 3400 },
-      { "name": "4 star", "count": 8000 },
-      { "name": "5 star", "count": 30000 }
+      { "name": "1 star", "count": 2100 }, { "name": "2 star", "count": 1500 }, { "name": "3 star", "count": 3400 }, { "name": "4 star", "count": 8000 }, { "name": "5 star", "count": 30000 }
     ]
   },
   {
@@ -58,17 +46,13 @@
     "title": "Alarmy - Loud Alarm Clock",
     "companyName": "alarmy.corp",
     "image": "https://images.unsplash.com/photo-1563991655280-cb95c90ca2fb?auto=format&fit=crop&q=80&w=500",
-    "description": "The world's most annoying alarm clock. Wake up your brain by solving math problems or taking photos.",
+    "description": "The world's most annoying alarm clock. Wake up your brain by solving math problems.",
     "size": 210,
     "reviews": 125000,
     "ratingAvg": 4.6,
     "downloads": 15000000,
     "ratings": [
-      { "name": "1 star", "count": 8000 },
-      { "name": "2 star", "count": 5000 },
-      { "name": "3 star", "count": 12000 },
-      { "name": "4 star", "count": 20000 },
-      { "name": "5 star", "count": 80000 }
+      { "name": "1 star", "count": 8000 }, { "name": "2 star", "count": 5000 }, { "name": "3 star", "count": 12000 }, { "name": "4 star", "count": 20000 }, { "name": "5 star", "count": 80000 }
     ]
   },
   {
@@ -76,17 +60,13 @@
     "title": "Zen: Sleep & Meditation",
     "companyName": "zenlabs.io",
     "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=500",
-    "description": "Find your inner peace. Zen offers guided meditations, breathing exercises, and high-quality white noise.",
+    "description": "Find your inner peace with guided meditations, breathing exercises, and white noise.",
     "size": 112,
     "reviews": 18000,
     "ratingAvg": 4.5,
     "downloads": 2000000,
     "ratings": [
-      { "name": "1 star", "count": 1000 },
-      { "name": "2 star", "count": 1200 },
-      { "name": "3 star", "count": 1800 },
-      { "name": "4 star", "count": 4000 },
-      { "name": "5 star", "count": 10000 }
+      { "name": "1 star", "count": 1000 }, { "name": "2 star", "count": 1200 }, { "name": "3 star", "count": 1800 }, { "name": "4 star", "count": 4000 }, { "name": "5 star", "count": 10000 }
     ]
   },
   {
@@ -94,17 +74,13 @@
     "title": "FitTrack: Daily Workout",
     "companyName": "fittrack.fit",
     "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=500",
-    "description": "Your personal trainer in your pocket. No equipment needed. Simple and effective daily workouts.",
+    "description": "Your personal trainer in your pocket. No equipment needed for effective daily workouts.",
     "size": 310,
     "reviews": 9500,
     "ratingAvg": 4.4,
     "downloads": 1200000,
     "ratings": [
-      { "name": "1 star", "count": 600 },
-      { "name": "2 star", "count": 800 },
-      { "name": "3 star", "count": 1100 },
-      { "name": "4 star", "count": 2000 },
-      { "name": "5 star", "count": 5000 }
+      { "name": "1 star", "count": 600 }, { "name": "2 star", "count": 800 }, { "name": "3 star", "count": 1100 }, { "name": "4 star", "count": 2000 }, { "name": "5 star", "count": 5000 }
     ]
   },
   {
@@ -112,35 +88,83 @@
     "title": "Wallet: Money Tracker",
     "companyName": "fintechly.app",
     "image": "https://images.unsplash.com/photo-1512358959174-b704cd9b52e1?auto=format&fit=crop&q=80&w=500",
-    "description": "Track your expenses, set budgets, and save more money. Get detailed financial insights and syncing.",
+    "description": "Track your expenses, set budgets, and save more money with detailed financial insights.",
     "size": 95,
     "reviews": 12800,
     "ratingAvg": 4.7,
     "downloads": 3000000,
     "ratings": [
-      { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 1100 },
-      { "name": "4 star", "count": 3000 },
-      { "name": "5 star", "count": 8000 }
+      { "name": "1 star", "count": 400 }, { "name": "2 star", "count": 300 }, { "name": "3 star", "count": 1100 }, { "name": "4 star", "count": 3000 }, { "name": "5 star", "count": 8000 }
     ]
   },
   {
     "id": 8,
-    "title": "SkyCast: Weather Real-time",
+    "title": "SkyCast: Weather Forecast",
     "companyName": "meteohub.com",
     "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&q=80&w=500",
-    "description": "Accurate local weather forecasts, storm radar, and real-time alerts. Never get caught in the rain again.",
+    "description": "Accurate local weather forecasts, storm radar, and real-time alerts for your location.",
     "size": 42,
     "reviews": 89000,
     "ratingAvg": 4.6,
     "downloads": 25000000,
     "ratings": [
-      { "name": "1 star", "count": 5000 },
-      { "name": "2 star", "count": 4000 },
-      { "name": "3 star", "count": 10000 },
-      { "name": "4 star", "count": 20000 },
-      { "name": "5 star", "count": 50000 }
+      { "name": "1 star", "count": 5000 }, { "name": "2 star", "count": 4000 }, { "name": "3 star", "count": 10000 }, { "name": "4 star", "count": 20000 }, { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "CodeFlow: Mobile IDE",
+    "companyName": "codeflow.dev",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&q=80&w=500",
+    "description": "Write and run code anywhere. Supports over 40 programming languages with syntax highlighting.",
+    "size": 450,
+    "reviews": 15000,
+    "ratingAvg": 4.3,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 }, { "name": "2 star", "count": 1200 }, { "name": "3 star", "count": 2300 }, { "name": "4 star", "count": 4000 }, { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Vibe: Photo Editor AI",
+    "companyName": "vibeart.studio",
+    "image": "https://images.unsplash.com/photo-1554080353-a576cf803bda?auto=format&fit=crop&q=80&w=500",
+    "description": "Advanced filters, AI retouching, and professional editing tools for stunning social media photos.",
+    "size": 180,
+    "reviews": 34000,
+    "ratingAvg": 4.2,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 }, { "name": "2 star", "count": 3000 }, { "name": "3 star", "count": 7000 }, { "name": "4 star", "count": 8000 }, { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "KitchenBuddy: Recipes",
+    "companyName": "chefhub.io",
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&q=80&w=500",
+    "description": "Plan your meals, manage groceries, and discover 5000+ recipes based on your ingredients.",
+    "size": 75,
+    "reviews": 4100,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 }, { "name": "2 star", "count": 200 }, { "name": "3 star", "count": 300 }, { "name": "4 star", "count": 1000 }, { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "ScanIt: PDF Scanner",
+    "companyName": "doculabs.app",
+    "image": "https://images.unsplash.com/photo-1586769852836-bc069f19e1b6?auto=format&fit=crop&q=80&w=500",
+    "description": "Convert physical documents into high-quality PDFs with professional OCR technology.",
+    "size": 52,
+    "reviews": 210000,
+    "ratingAvg": 4.9,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 }, { "name": "2 star", "count": 5000 }, { "name": "3 star", "count": 10000 }, { "name": "4 star", "count": 40000 }, { "name": "5 star", "count": 150000 }
     ]
   }
 ]
